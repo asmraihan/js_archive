@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//?                             javaScript basic problems with documented solution
+//?                             javaScript basics with documented solution
 
 
 //TODO                   install better comment extension in vs code for better experience
